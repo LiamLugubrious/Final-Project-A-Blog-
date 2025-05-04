@@ -75,4 +75,4 @@ If in replit it will open a preview tab, other use your prefered browser and go 
 
 Thank you for checking out my project!
 
-~~~side note my .env has been removed from this project
+~~~side note my .env has been removed from this project~~~
